@@ -1,10 +1,10 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
 """
 This script will add a random emoji to the beginning of your commit message.
 
 To use this script, copy it to your .git/hooks/ directory and rename it to
-prepare-commit-msg. Make sure it is executable.
+"prepare-commit-msg". Make sure it is executable.
 
 This script need emoji package, you can install it by "pip install emoji".
 
